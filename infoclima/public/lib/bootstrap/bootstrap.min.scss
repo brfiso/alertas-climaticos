@@ -1,0 +1,17 @@
+$theme-colors: (
+    "primary": #17234E,
+    "secondary": #3D496A,
+    "success": #4DA64D,
+    "info": #008AA9,
+    "warning": #c2a129,
+    "danger": #A80000,
+    "light": #F5F5F5,
+    "dark": #111,
+    "white": #fff
+);
+
+@import "./scss/bootstrap.scss";
+@import "../fontawesome/scss/fontawesome.scss";
+// @import "../fontawesome/scss/solid.scss";
+@import "../fontawesome/scss/regular.scss";
+// @import "../fontawesome/scss/brands.scss";
